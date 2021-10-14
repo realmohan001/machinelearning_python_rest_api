@@ -1,0 +1,6 @@
+from,to,passengercount,water,snacks,alcoholicdrinks,softdrinks
+DAL,SFO,150,170,165,70,170
+DAL,SFO,170,190,190,71,190
+DAL,SFO,190,220,220,73,220
+DAL,SFO,220,250,246,76,220
+DAL,SFO,240,280,246,80,220
